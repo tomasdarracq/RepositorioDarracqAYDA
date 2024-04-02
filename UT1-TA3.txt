@@ -1,0 +1,10 @@
+1- No cumple porque no es medible.
+2- Cumple (dependiendo del software si es realista).
+3- No cumple ya que no es específico y no es alcanzable.
+4- No cumple ya que no es específico en los datos en los que se van a exportar.
+5- No cumple, no es específico.
+6- No cumple porque tampoco es específico.
+7- Cumple.
+8- Cumple (dependiendo del software si es realista o no).
+9- No cumple no es específico.
+10- Cumple.
