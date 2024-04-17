@@ -1,0 +1,45 @@
+UT2-TA6 Equipo 2
+Ej1
+
+1) No se especifica que es un modulo, el sistema debe registrar a los proovedores // el sistema debe ingresar a los pacientes // el sistema debe registrar mercancia // el sistema debe asegurar que los papeles esten al dia
+
+2) cambiariamos el puede ser, falta contexto, como se envian // las cartas deben enviarse por correo uruguayo al amancen
+
+3)  agregariamos un verbo modal ademas hay muchos detinos // El sistema debe enviar un correo electrónico a x area
+
+4) Lo rescribiriamos para evitar ambiguedad // La contabilización de transacciones de facturas de compra y venta podra
+configurarse para realizarse de forma automatizada a su registro
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ej2
+
+Eventos
+Cliente hace click en login
+Cliente quiere ver el catalogo
+Cliente quiere reservar items//  renovar // devolver ítems // proveer de un feedback (recomendaciones, sugerencias) 
+Cliente quiere Gestionar su cienta
+Cliente quiere  interactuar en el foro
+
+PUC
+#1 Login De usuarios
+#2 Mostrar Catalogos
+#3 Reserva de Item
+#4 Renovacion de Item
+#5 Devolucion del Item
+#6 Feedback a Item
+#7 gestion de cuenta
+#8 Interaccion en el foro
+
+Requerimientos Funcionales
+#1 Debe Usar Paletas de Color Blanco y Azul y un estilo Minimalista
+#2 Los usuarios deben registrarse con Nombre, apellido, edad, domicilio, CI y foto de identificación  
+#3 Deben existir roles diferenciados entre bibliotecarios, lectores y proveedores
+#4 El catalogo de la pagina web debe contener libros y periodicos
+#5 El catalogo de la pagina web debe contener material audiovisual
+#6 El usuario puede reservar
+#7 El usuario puede renovar 
+#8 El usuario puede devolver
+#9 El usuario debe recibir anuncios de la biblioteca, cómo recordatorios acerca de vencimientos de plazo
+#10 El usuario puede gestionar su cuenta 
+#11 Debe facilitar el contacto a ellos bajo un sistema de tickets
+
