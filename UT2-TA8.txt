@@ -1,0 +1,63 @@
+Parte 1
+Clasifíquelos en funcionales y no funcionales
+Dada la siguiente lista de requisitos;
+Requerimiento 1: El software debe permitir la creación de perfiles de usuario. // REQUISITO FUNCIONAL 
+Criterio de aceptacion: Testear si se puede crear un perfil
+]
+Requerimiento 2: El software debe permitir la reserva de citas en el taller. // REQUISITO FUNCIONAL 
+Criterio de aceptacion: Testear reservar una cita en el taller
+
+Requerimiento 3: El software debe permitir la consulta de información del vehículo. // REQUISITO FUNCIONAL 
+Criterio de aceptacion: Testear consultar informacion
+
+Requerimiento 4: El software debe enviar notificaciones de recordatorios de servicio. // REQUISITO FUNCIONAL
+Criterio de aceptacion: Testear si el sistema envia notificaciones
+
+Requerimiento 5: El software debe generar informes de rendimiento del taller. // REQUISITO FUNCIONAL
+Criterio de aceptacion: Testear si se genera el informe
+
+Requerimiento 6: El software debe tener una disponibilidad del 99.9%. // REQUISITO NO FUNCIONAL RENDIMIENTO
+Criterio de aceptacion: Que el software no este caido mas de 8.76 horas al año
+
+Requerimiento 7: El software debe ser fácil de actualizar sin causar interrupciones en el servicio. // REQUISITO NO FUNCIONAL MANTENIMIENTO
+Criterio de aceptacion: Que el sistema no se detenga con una actualizacon
+
+Requerimiento 8: El software debe cumplir con los estándares de accesibilidad. // REQUISITO NO FUNCIONAL USABILIDAD
+Criterio de aceptacion: Testear segun dichos estandares
+
+Requerimiento 9: El software debe tener una interfaz coherente y consistente. //  REQUISITO NO FUNCIONAL LOOK AND FEEL
+Criterio de aceptacion: Que cumpla los estandares de la empresa
+
+Requerimiento 10: El software debe tener un tiempo de carga rápido.  //  REQUISITO NO FUNCIONAL RENDIMIENTO
+Criterio de aceptacion: Que no demore mas de X segundos
+
+Requerimiento 11: El software debe contar con un soporte al usuario eficiente. // REQUISITO NO FUNCIONAL MANTENIMIENTO Y SOPORTE 
+Criterio de aceptacion: Soporte 24/7
+
+Requerimiento 13: El software debe contar con una arquitectura escalable. // REQUISITO NO FUNCIONAL MANTENIMIENTO
+Criterio de aceptacion: Utilizar patrones de escalabilidad
+
+Requerimiento 14: El software debe ser fácil de integrar con otros sistemas. // REQUISITO NO FUNCIONAL MANTENIMIENTO
+Criterio de aceptacion: Que sea una API
+
+Requerimiento 15: El software debe contar con medidas de autenticación de usuarios seguras. //REQUISITO NO FUNCIONAL SEGURIDAD
+Criterio de aceptacion: Que utiliza estandares de seguridad
+
+Requerimiento 16: El software debe cumplir con las leyes de protección de datos y privacidad. //REQUISITO NO FUNCIONAL LEGAL
+Criterio de aceptacion: Que garantize la proteccion de datos
+
+Requerimiento 17: El software debe garantizar la confidencialidad de la información de los usuarios. //REQUISITO NO FUNCIONAL SEGURIDAD
+Criterio de aceptacion: Que la informacion de los usarios sea confidencial
+
+Requerimiento 18: El software debe ser fácil de desinstalar en caso de ser necesario. //REQUISITO NO FUNCIONAL USABILIDAD
+Criterio de aceptacion: Que en un solo paso lo puedas desinstalar
+
+Requerimiento 19: El software debe contar con un sistema de respaldo seguro y confiable. //REQUISITO NO FUNCIONAL SEGURIDAD
+Criterio de aceptacion: Que se respalde cada X tiempo y que este encriptado
+
+Requerimiento 20: El software debe cumplir con las leyes de protección de propiedad intelectual. //REQUISITO NO FUNCIONAL LEGAL
+Criterio de aceptacion: Usar cosas propias de la empresa
+
+Ejercicio 2
+Requerimiento gold plating: El software debe ser fácil de desinstalar en caso de ser necesario // El software debe tener un tiempo de carga rápido // Consideramos que son gold plating porque son funcionalidades que no aportan demasiado en relacion a su costo, en especial la de tiempo de carga
+Requerimiento creep: El software debe ser fácil de integrar con otros sistemas // El software debe contar con una arquitectura escalable. // Comsideramos que son creep porque al tener crecimiento continuo, facilmente se pueden ir del scope del proyecto. 
